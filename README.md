@@ -8,7 +8,7 @@ Your vector database grows. Documents get added, re-chunked, updated.
 But which ones actually get retrieved? Which ones users ignore?
 Which ones haven't appeared in a search result in 60 days?
 
-Without tracking, you're flying blind. 'rag-memento' leaves notes.
+Without tracking, you're flying blind. rag-memento leaves notes.
 ---
 ## Features
 
